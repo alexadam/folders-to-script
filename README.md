@@ -2,7 +2,7 @@
 
 This is a simple NodeJS app that takes a source folder as input and generates a Bash script. The Bash script has all the files' content and the folders' structure in the source folder and it can recreate them when executed.
 
-More about it here: 
+More about it here: https://alexadam.dev/blog/folder-structure-script.html
 
 How to us it:
 
